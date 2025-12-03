@@ -1,4 +1,4 @@
-// CASINO WHATSAPP BOT - VERSIÓN SIMPLE
+/ CASINO WHATSAPP BOT - VERSIÓN SIMPLE
 const { makeWASocket, useMultiFileAuthState } = require('@whiskeysockets/baileys');
 const qrcode = require('qrcode-terminal');
 
