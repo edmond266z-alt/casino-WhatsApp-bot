@@ -1,0 +1,17 @@
+{
+  "name": "casino-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot de casino para WhatsApp grupos",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "keywords": ["whatsapp", "bot", "casino", "nodejs"],
+  "author": "edmond26óz-alt",
+  "license": "MIT"
+}
